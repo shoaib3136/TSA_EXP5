@@ -1,4 +1,4 @@
-### Developed by: Shak Shoaib Nawaz
+### Developed by: Shaik Shoaib Nawaz
 ### Register Number:212222240094
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
 ### Date: 
